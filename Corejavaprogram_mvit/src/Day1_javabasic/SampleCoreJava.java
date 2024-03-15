@@ -16,4 +16,5 @@ public class SampleCoreJava {
 		c=a-b;
 		System.out.println("subraction5 of a ="+a+"and b="+b+"is:"+c);
 	}
+
 }
